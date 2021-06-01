@@ -1,2 +1,2 @@
-# Ember
+# Maze Generator
 
